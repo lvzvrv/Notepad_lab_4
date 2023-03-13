@@ -1,5 +1,3 @@
-using Avalonia.Controls.Shapes;
-using Avalonia.Interactivity;
 using NotePad.Models;
 using ReactiveUI;
 using System;
